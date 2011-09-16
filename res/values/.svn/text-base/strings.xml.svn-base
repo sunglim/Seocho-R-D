@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">양재역 셔틀</string>
+    <string name="sadang_bus">사당역 셔틀</string>   
+    <string name="app_name">SeochoR&amp;D</string>
+     <string name="third_tab">
+* 서초R&amp;D &gt; 평택D/P
+\n
+\n 08:30 09:30 11:00 13:30 15:00
+\n 16:30 18:00 20:00 22:10
+\n
+\n
+\n
+* 평택D/P &gt; 서초R&amp;D
+\n
+\n 09:30 11:00 13:30 15:00 16:30
+\n 18:00 (21:00)
+\n - 21:00분 차량은 정문앞 버스주차장에서 출발 
+\n 
+</string>
+    
+    
+</resources>
